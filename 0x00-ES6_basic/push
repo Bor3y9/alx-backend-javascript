@@ -2,7 +2,7 @@
 
 # Variables
 BRANCH_NAME="main"  # Pushing to main branch
-COMMIT_MESSAGE="Your commit message here"  # Add your commit message
+COMMIT_MESSAGE="ES6 Basics"  # Add your commit message
 
 # Add all files
 git add .
